@@ -1,6 +1,8 @@
-from .knn import KNN
-from .decisiontree import DecisionTree
-from .Linearregression import Linearregression
-from .randomforest import RandomForest
-from .logisticregression import Logisticregression
-from .multilinear import MultipleLinear
+__version__ = '0.1.6'
+from luvex.node import Node
+from luvex.decisiontree import DecisionTree
+from luvex.randomforest import RandomForest
+from luvex.knn import KNN
+from luvex.logisticregression import Logisticregression
+from luvex.Linearregression import Linearregression
+from luvex.multilinear import MultipleLinear
