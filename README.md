@@ -1,5 +1,5 @@
 # luvex
-Developing ML Models from scratch : Regression - Linear (Least Squares Method), Multiple Linear. Classification - KNN, Logistic Regression, Decision Trees, Random Forests
+Developing ML Models from scratch : Regression - Linear (Least Squares Method), Multiple Linear. Classification - KNN, Logistic Regression, Decision Trees, Random Forest
 
 # Luvex
 
@@ -206,3 +206,4 @@ Once everything is ready, you need to build your package. Use the following comm
 1. **Install build tools**:
    ```bash
    pip install build
+
